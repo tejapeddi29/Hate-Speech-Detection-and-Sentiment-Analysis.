@@ -1,7 +1,7 @@
 # Hate-Speech-Detection-and-Sentiment-Analysis.
 
 ### 1. Introducton
-###Social media platforms such as TwiSer, Reddit, etc. have become significant sources of
+###Social media platforms such as Twitter, Reddit, etc. have become significant sources of
 information and platforms for public expression. However, the open and unrestricted nature
 of these platforms has also given rise to the proliferation of hate speech. Hate speech,
 characterized by offensive, discriminatory, or derogatory language targeting individuals or
